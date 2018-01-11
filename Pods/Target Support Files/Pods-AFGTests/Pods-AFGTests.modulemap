@@ -1,0 +1,6 @@
+framework module Pods_AFGTests {
+  umbrella header "Pods-AFGTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
